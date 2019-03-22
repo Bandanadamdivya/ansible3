@@ -15,3 +15,8 @@
 172.31.17.254
 [redhat]
 172.31.19.93
+[ubuntu_hosts]
+<xxx.xxx.xxx.xxx>
+
+[ubuntu_hosts:vars]
+ansible_python_interpreter=/usr/bin/python3
